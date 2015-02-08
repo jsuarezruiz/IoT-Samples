@@ -1,0 +1,6 @@
+c:\users\javier\documents\visual studio 2013\Projects\NETGalileo\bin\Debug\NETGalileo.exe.config
+c:\users\javier\documents\visual studio 2013\Projects\NETGalileo\bin\Debug\NETGalileo.exe
+c:\users\javier\documents\visual studio 2013\Projects\NETGalileo\bin\Debug\NETGalileo.pdb
+c:\users\javier\documents\visual studio 2013\Projects\NETGalileo\obj\Debug\NETGalileo.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2013\Projects\NETGalileo\obj\Debug\NETGalileo.exe
+c:\users\javier\documents\visual studio 2013\Projects\NETGalileo\obj\Debug\NETGalileo.pdb
